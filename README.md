@@ -1,6 +1,6 @@
 # IonForEveryone
 
-To clear the air before my deperture from this braindead community I will breifly explain what Ion-for-everybody was.
+To clear the air before my deperture from this braindead community I will briefly explain what Ion-for-everybody was.
 
 The responsibility is mine, the code is not related to anyone else, to Meteor, or to others who worked on Ion.
 
